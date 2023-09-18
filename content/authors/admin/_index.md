@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:qjfeng21@m.fudan.edu.cn
+    link: "mailto:qjfeng21@m.fudan.edu.cn"
   # - icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
