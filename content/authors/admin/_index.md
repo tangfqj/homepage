@@ -22,13 +22,13 @@ organizations:
     url: https://www.fudan.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, computer vision and large language models.
+bio: My research interests include computer vision and deep learning.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Deep Learning
+  - Machine Learning Systems
 
 # Education to show in About widget
 education:
@@ -74,5 +74,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a student studying computer science in the school of computer science at Fudan University. I have a broad interest in training machine to **see** and **think** like human beings, with a primary focus on image and video synthesis.
 {style="text-align: justify;"}
