@@ -29,8 +29,8 @@ abstract: The recent wave of AI-generated content (AIGC) has witnessed substanti
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
+tags: []
+# - Source Themes
 featured: true
 
 # links:
@@ -65,7 +65,7 @@ url_video: '#'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
