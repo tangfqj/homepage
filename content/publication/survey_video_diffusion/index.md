@@ -37,12 +37,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: 'http://arxiv.org/pdf/2310.10647.pdf'
-url_code: ''
-url_dataset: '#'
-url_poster: '#'
+# url_code: ''
+# url_dataset: '#'
+# url_poster: '#'
 url_project: 'https://github.com/ChenHsing/Awesome-Video-Diffusion-Models'
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 ---
