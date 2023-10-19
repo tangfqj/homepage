@@ -28,7 +28,7 @@ bio: My research interests include computer vision and deep learning.
 interests:
   - Computer Vision
   - Deep Learning
-  - Machine Learning Systems
+  - Continual Learning
 
 # Education to show in About widget
 education:
@@ -74,5 +74,5 @@ email: ''
 highlight_name: true
 ---
 
-I'm a student studying computer science in the school of computer science at Fudan University. I have a broad interest in training machine to **see** and **think** like human beings, with a primary focus on image and video synthesis.
+I'm a student studying computer science in the school of computer science at Fudan University. I have a broad interest in machine learning and computer vision, with a primary focus on image and video synthesis.
 {style="text-align: justify;"}
